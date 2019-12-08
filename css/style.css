@@ -1,0 +1,164 @@
+/* /* @font-face{
+    font-family: 'Dancing Script';
+    src: url(../asserts/font/static/DancingScript-Regular.ttf);
+}
+
+p {
+    font-family: 'Dancing Script';
+    width: 400px;
+    text-align: justify; /* boxun olcusune gore tam yerlesdirir 
+    text-transform: capitalize;  /*herflerin style-in deyisir
+    text-indent: 20px; /* ne qeder ara mesafesi ile baslasin abzas*/
+/* letter-spacing: 2px; herler arasi */
+/* word-spacing: 5px; sozler arasi */
+/* color: red;
+    text-shadow: 1px 1px red; */
+/* font-family: 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+/* font-size: 1em; 
+    font-weight: bold;
+    line-height: 15px /* siralar arasi hundurluk
+
+}
+
+a {
+    text-decoration: none; /*alt xetti yigisdirir
+    
+} 
+
+div {
+    margin-left: 200px;
+    margin-top: 50px;
+    width: 1000px;
+    height: 700px;
+    border: 30px solid transparent;
+    padding: 20px;
+    border-image: url(/asserts/image/royal_pattern_d.jpg) 40 round;
+}
+
+div>h2 {
+    text-align: center;
+    font-family: 'Rye', cursive;
+    font-size: 50px;
+    padding-top: 30px;
+    text-transform: uppercase;
+}
+
+
+.name {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid;
+    width: 500px;
+    margin: 0 auto;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.date {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid;
+    font-size: 20px;
+    width: 40px;
+
+}
+
+p[name="date"] {
+    display: inline-block;
+    font-size: 20px;
+    margin-top: 170px;
+    margin-left: 30px;
+
+}
+
+.name,
+.uppercase {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 5px;
+    font-size: 20px;
+}
+
+img {
+
+    width: 190px;
+    margin-left: 140px;
+    margin-bottom: 5px;
+}
+
+.director {
+    font-size: 20px;
+    display: inline-block;
+    text-align: center;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid;
+    width: 300px;
+    margin-left: 60px;
+    padding-bottom: 10px;
+    margin-bottom: 5px;
+}
+
+span[name="sign"] {
+    font-size: 20px;
+    margin-left: 770px;
+
+} */
+
+div {
+    padding-left: 10px;
+}
+
+p {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 2px solid red;
+    font-size: 30px;
+    width: 400px;
+    padding-left: 10px;
+
+}
+
+i.fab {
+    width: 50px;
+    height: 50px;
+    border: 2px solid black;
+    border-radius: 100%;
+    line-height: 50px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.facebook {
+    color: #3b5998;
+}
+
+.twitter {
+    color: #1da1f2;
+}
+
+.instagram {
+    color: #c13584;
+}
+
+.pinterest {
+    color: #bd081c;
+}
+
+.linkedin {
+    color: #0077b5;
+}
+
+.youtube {
+    color: #ff0000;
+}
+
+.google {
+    color: #dd4b39;
+}
