@@ -162,3 +162,20 @@ i.fab {
 .google {
     color: #dd4b39;
 }
+
+
+a:link{
+    color: blue;
+}
+
+a:visited{
+    color:red;
+}
+
+a:hover{
+    border-bottom:1px solid orange;
+}
+
+a:active{
+    color:green;
+}
